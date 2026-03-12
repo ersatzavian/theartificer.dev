@@ -1,0 +1,3 @@
+[submodule "obd-diff"]
+	path = obd-diff
+	url = git@github.com:ersatzavian/obd-diff.git
